@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+img {
+    border-radius: 50px;
+}
+.header{
+   overflow: auto;
+}
+.logoimg {
+    height: 5rem;
+    width: 5rem;
+    float: left;    
+}
+.logotxt{
+    margin-top: 2.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    float: center;
+}
+.offer {
+    display: flex;
+    justify-content: center;
+}
+
+.offertxt {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 41px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.offerimg {
+    width: 20rem;
+    margin-left: 10% ; /* Прижимаем фото к правому краю контейнера */
+    margin-right: 10%;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+}
+
+.offer {
+    padding: 40px;
+    text-align: center;
+}
+.photo {
+    display: flex;
+}
+.bir{
+    width: 18rem;
+    height: 22rem;
+    margin-left: 3%;
+}
+.ush{
+    width: 18rem;
+    height: 22rem;
+    margin-left: 3%;
+}
+.eki{
+    width: 18rem;
+    height: 22rem;
+    margin-left: 3%;
+}
+.phototxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    float: right;
+    margin-left: 3%;
+    margin-right: 4%;
+    margin-top: 3%;
+}
+.howwork{
+    margin-right: 8%;
+}
+.ort{
+    display: flex;
+}
+.work{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 545;
+    font-size: 25px;
+    margin-left: 3%;
+    margin-top: 4%;
+}
+.artyk {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 545;
+    font-size: 25px;
+    margin-right: 12%;
+    margin-top: 2.5%;
+}
+.otzyv{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 545;
+    font-size: 25px;
+    margin-left: 2%;
+    margin-top: 3%;
+    margin-right: 35%;
+    
+}
+.contact {
+    padding: 40px;
+    text-align: center;
+}
